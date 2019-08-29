@@ -1,165 +1,100 @@
-# Lumini Hire Test
-Se você recebeu o link para este documento, está no caminho certo, o intuito é avaliar nossos candidatos, seguindo critérios que os deixem mais livres para a realização dos desafios, assim, podemos avaliar a capacidade criativa de cada candidato, bem como a originalidade, sem a necessidade que tenham que realizar um teste técnico diretamente dentro de nosso escritório, o que pode atrapalhar o tempo do candidato e a disponibilidade de alguém para aplicar os testes.
+#Lumini Hire Test - Web Designer (Front-End) REACT/NODE.JS Pleno
+Esse Projeto foi feito pelo candidato Patrick Puertas Rodrigues para a vaga de nível pleno da mesma.
 
-Abaixo, seguem os testes para diferentes perfis: Data Scientist, Web Designer e Fullstack Developer.
+Depois da Entrevista Presencial percebi a grande necessidade de alguém que conhecesse e tivesse vivência em desenvolvimento e aplicações de UX e UI, prototipação e tudo que é necessário para criar um aplicação Web de alta qualidade, já faço esse tipo de desenvolvimento a algum tempo e pude trabalhar muito com isso e espero trazer minhas habilidades mostradas neste teste e aquelas que infelizmente não mostrei.
 
-# Data Scientist
-## Objetivo
+Infelizmente não tive um tempo bom para fazer o teste, mas acredito que consegui mostrar pelo menos um pouco do que sou capaz(em 4 horas de desenvolvimento rsrs)!
 
-Testar as habilidades do candidato em técnicas de análise exploratória de dados.
+Gostaria de agradecer a oportunidade de conhecer a Lumini, de poder ter uma Entrevista Presencial maravilhosa com o Thiago Lombardi, conversas com o Francisco Dalglish que me ajudaram muito e espero conhecer o resto da equipe em breve!
 
-## Critérios de Avaliação
+**MUITO OBRIGADO!**
 
-* A análise exploratória deve ser reprodutível
-* O relatório deve explicar clara e concisamente os conceitos estatísticos envolvidos nas análises e nos testes de hipótese, se aplicáveis
-* Cada gráfico deve conter legendas, eixos com títulos significativos e uma breve descrição do motivo de haver sido construído
-* Referências de citações
+# Vamos lá!
+##O Projeto
+Foi criado uma SPA do site da CompIAnce, uma empresa fictícia, estática e com efeitos visuais que levei em consideração ao ramo de serviço da mesma, trazendo uma aplicação simples mas com cheio de detalhes de efeitos visuais que auxiliam a compreensão da MISSÃO e OBJETIVOS da empresa trazendo profissionalismo e uma perspectiva de uma grande empresa do setor.
 
-## Desafio
+Levei em consideração a aparência e criatividade, trazendo a originalidade de criação de uma idelaização de empresa do absoluto ZERO, tendo uma página coerente com a proposta e semânticamente inteligente, reusável e simples e bem documentada.
 
-Neste teste, peço a v. que utilize os dados anexos em um exercício de análise exploratória. Trata-se de uma amostra de inscrições no ENEM de 2016. Utilize as tecnologias, processos e métodos que você preferir para criar um caderno de apresentação do conteúdo descoberto que **contenha o código utilizado e seja reprodutível**.
+CompIAnce vem de Compliance, To comply, em inglês, é um verbo que significa estar de acordo com uma regra. O significado da palavra compliance tem relação com a conduta da empresa e sua adequação às normas dos órgãos de regulamentação, trazendo assim novamente a ideia de profissionalismo. Vemos também o jogo de palavras de AI (Artifical Inteligence) e Compliance resultando em: CompIAnce.
 
-Além da análise exploratória livre, aborde o seguinte problema:
+Apresentei os pontos de consideração de um cliente a aderir um produto ou software online, mostrando o "PORQUE", "COMO" e "QUANTO", os grandes pilares da aderência de usuários.
 
-* Como é possível segmentar os inscritos de forma clara e objetiva com o intuito de justificar investimentos em educação destinados a certas parcelas de alunos?
+Tudo isso com uma aplicação minimalista, profissional e coerente com a prosposta que idealizei.
 
-É obrigatório o uso da sua conta Github para realizar o Fork deste repositório e enviar pull-request ao término do desafio, para sabermos se possui conhecimentos básicos de como funciona a ferramenta git.
-
-* Boas técnicas e conhecimentos em DataViz são um diferencial.
-
-## Requisitos
-
-* Python, R ou ML.NET
-
-## Suprimentos
-Os arquivos necessários para a realização do desafio está na pasta "sample_data", chama-se "[Microdados_Enem_2016.zip](https://github.com/lumini-it-solutions/lumini-hire-test/raw/master/sample_data/Microdados_Enem_2016.zip)".
-
-------------------------------------------------------------------------
-# Web Designer (Front-End) REACT/NODE.JS
-## Objetivo
-Testar as habilidades dos candidatos em desenvolvimento de UX e UI, além de diagramação (quando necessário).
-
-Desconsiderar os arquivos já existentes neste repositório, crie novos.
-
-É obrigatório o uso da sua conta Github para realizar o Fork deste repositório e enviar pull-request ao término do desafio, para sabermos se possui conhecimentos básicos de como funciona a ferramenta git.
-
-**Não versione os binários de dependência (node_modules).**
-
-## Critérios de Avaliação
-* Aparência
-* Criatividade
-* Originalidade
-* Coerência
-* Semântica
-* Reusabilidade
-* Documentação
-
-## Desafios
-### Pleno
-Criar uma SPA (Single Page Application) de um site empresarial (fictício), estático, com efeitos visuais coerentes.
-
-Diagramar um Layout Dashboard (cores, gráficos, fontes, disposição de elementos e efeitos visuais como transição ou animação em gráficos).
-
-### Sênior
-Criar um mini e-commerce, bem apresentável com telas de controle (administração) contendo um Dashboard coeerente com a aplicação, contendo animações, transições e semântica.
-
-## Requisitos
-* Documentar as técnicas e ferramentas utilizadas.
+##Tecnologias
 * REACT
-* **NÃO** misturar com outros frameworks (Angular, Vue.Js, etc.)
 * HTML 5
 * CSS 3
 * ECMAScript 6 (ES6)+
-* Pode usar ferramentas padrões de mercado como: Bootstrap, JQuery, D3, amcharts, etc.
-* Poucas dependências, projetos que levarem entre 3 e 5 minutos para serem atualizados (npm install / yarn install), perderão pontos na avaliação, acima disso serão desclassificados.
+* Utilização de Arquivos CSS e JS Boostrap-based que venho trabalhando a algum tempo.
+* Dependências básicas do npm create-react-app.
 
-------------------------------------------------------------------------
-# Web Designer (Front-End) C#
-## Objetivo
-Testar as habilidades dos candidatos em desenvolvimento de UX e UI, além de diagramação (quando necessário).
+# Informações Gerais e Documentação de Inicialização do Teste Técnico
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Desconsiderar os arquivos já existentes neste repositório, crie novos.
+## Available Scripts
 
-É obrigatório o uso da sua conta Github para realizar o Fork deste repositório e enviar pull-request ao término do desafio, para sabermos se possui conhecimentos básicos de como funciona a ferramenta git.
+In the project directory, you can run:
 
-## Critérios de Avaliação
-* Aparência
-* Criatividade
-* Originalidade
-* Coerência
-* Semântica
-* Reusabilidade
-* Documentação
+### `npm start`
 
-## Desafio
-Criar uma SPA (Single Page Application) de um site empresarial (fictício), estático, com efeitos visuais coerentes.
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Diagramar um Layout Dashboard (cores, gráficos, fontes, disposição de elementos e efeitos visuais como transição ou animação em gráficos).
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-# Requisitos
-* Documentar as técnicas e ferramentas utilizadas.
-* Não usar Angular, React ou outro Framework do gênero.
-* HTML 5
-* CSS 3
-* ECMAScript
-* Pode usar ferramentas padrões de mercado como: Bootstrap, JQuery, D3, etc.
+### `npm test`
 
-------------------------------------------------------------------------
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Fullstack Developer
-## Objetivo
-Testar as habilidades dos candidatos em desenvolvimento C# .NET Core.
+### `npm run build`
 
-## Critérios de Avaliação
-* Legibilidade de Código
-* Originalidade
-* Reusabilidade
-* Lógica
-* Conhecimentos na Linguagem C# e no Framework dotnet core
-* Criatividade
-* Coerência
-* Velocidade
-* Documentação
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Desafios de Desenvolvimento
-O candidato é livre a usar as técnicas de desenvolvimento que achar melhor, desde que atenda os requisitos. Para dev Jr e Pleno, desconsiderar os arquivos já existentes neste repositório, crie novos.
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-Poderá incrementar o desafio com funcionalidades dentro do mesmo escopo, caso faça bem feito, terá destaque com pontuação extra, use a criatividade.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-O Layout não é relevante, mas uma boa apresentação tem destaque. Semântica HTML não é levada em consideração.
+### `npm run eject`
 
-É obrigatório o uso da sua conta Github para realizar o Fork deste repositório e enviar pull-request ao término do desafio, para sabermos se possui conhecimentos básicos de como funciona a ferramenta git.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-### Dev Jr
-Criar um blog utilizando Razor Pages ou MVC com banco de dados SQLite, os posts devem poder serem lidos sem precisar se autenticar na aplicação, contudo, para poder publicar um novo artigo, é preciso estar registrado no blog.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Requisitos
-* dotnet core 2.2 ou superior.
-* Tem que rodar em qualquer sistema operacional.
-* SQLite
-* Bootstrap
-* Razor Pages ou MVC
-* ASP.NET Identity
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-### Dev Pleno
-Criar uma aplicação para controle de estoque, com saída e entrada de notas fiscais e produtos. As telas de gestão deverão estar com acesso restrito para usuários registrados, uma tela pública (sem autenticação) para consulta de estoque deverá existir.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Requisitos
-* dotnet core 2.2 ou superior.
-* Tem que rodar em qualquer sistema operacional.
-* SQLite
-* Bootstrap
-* Razor Pages ou MVC
-* ASP.NET Identity
+## Learn More
 
-### Dev SR
-Realizar a ingestão dos dados em "sample_data", "[CollegeScorecard_Raw_Data.zip](https://github.com/lumini-it-solutions/lumini-hire-test/raw/master/sample_data/CollegeScorecard_Raw_Data.zip)", a carga deverá ser realizada para dentro de um Elasticsearch, em um índice nomeado como "scorecard". Criar uma aplicação com Dashboard (acesso privado) para a visualização e uma pesquisa dos dados (acesso público).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### Requisitos
-* dotnet core 2.2 ou superior.
-* Tem que rodar em qualquer sistema operacional.
-* SQLite
-* Bootstrap
-* Razor Pages ou MVC
-* ASP.NET Identity
-* Elasticsearch
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
